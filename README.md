@@ -1,2 +1,2 @@
 # JavaXTI_2019
-Exercicios do Canal Universidade XTIe 
+Exercicios do Canal Universidade XTI
