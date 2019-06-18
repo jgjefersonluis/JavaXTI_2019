@@ -1,0 +1,11 @@
+package exer8;
+
+// Strategy
+
+public class Pizza {
+	
+	void preparar(){
+		
+	}
+
+}

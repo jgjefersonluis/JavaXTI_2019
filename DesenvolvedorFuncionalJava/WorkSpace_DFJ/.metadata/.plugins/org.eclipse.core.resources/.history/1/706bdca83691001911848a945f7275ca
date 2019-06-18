@@ -1,0 +1,15 @@
+package exer10;
+
+public class Exer10 {
+
+	public static calcular(Matematica) {
+		System.out.println(m.operar(10,10));
+		
+
+	}
+	@Test
+	public void exer10(){
+		
+	}
+
+}

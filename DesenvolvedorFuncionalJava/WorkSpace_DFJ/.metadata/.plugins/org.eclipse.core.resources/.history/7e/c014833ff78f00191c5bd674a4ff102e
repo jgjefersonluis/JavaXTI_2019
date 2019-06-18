@@ -1,0 +1,11 @@
+package exer8;
+
+public class Napolitana implements Pizza {
+
+	@Override
+	public void preparar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
