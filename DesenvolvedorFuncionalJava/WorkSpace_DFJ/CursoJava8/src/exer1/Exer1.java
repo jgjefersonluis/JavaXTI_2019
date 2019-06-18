@@ -6,6 +6,13 @@ public class Exer1 {
 
 	@Test
 	public void exer1() {
-		System.out.println("Ola, teste!");
+		Torcedor t1 = new Corinthians();
+		t1.torcer();
+		t1 = new Londrina();
+		t1.torcer();
+		t1 = new Internacional();
+		t1.torcer();
+
+
 	}
 }

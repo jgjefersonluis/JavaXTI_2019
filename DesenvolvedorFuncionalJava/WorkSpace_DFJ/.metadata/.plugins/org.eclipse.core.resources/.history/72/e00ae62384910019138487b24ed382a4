@@ -1,0 +1,12 @@
+package exer4;
+
+public class Exer4 {
+	
+	/* Static metodos na interface */
+	
+	@Test
+	public void exer4(){
+		
+	}
+
+}

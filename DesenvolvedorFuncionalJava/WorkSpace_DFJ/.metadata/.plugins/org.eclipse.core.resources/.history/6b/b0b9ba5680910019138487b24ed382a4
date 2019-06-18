@@ -1,0 +1,15 @@
+package exer2;
+
+import org.junit.Test;
+
+public class Exer2 {
+
+	/* Herança multiplas */
+
+	public void exer2() {
+		Cliente c = new Cliente();
+		c.falar();
+		c.vendendo("Bicicleta 200,00");
+	}
+
+}

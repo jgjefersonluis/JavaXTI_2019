@@ -4,6 +4,11 @@
 <fullyQualifiedTypeName name="exer8.Napolitana"/>
 <fullyQualifiedTypeName name="exer8.Forno"/>
 <fullyQualifiedTypeName name="exer10.Matematica"/>
-<fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="exer1.Torcedor"/>
+<fullyQualifiedTypeName name="exer1.Corinthians"/>
+<fullyQualifiedTypeName name="exer1.Internacional"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="exer4.Fornecedor"/>
+<fullyQualifiedTypeName name="java.math.BigDecimal"/>
 </qualifiedTypeNameHistroy>
